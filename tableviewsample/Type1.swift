@@ -6,4 +6,9 @@
 //  Copyright © 2020 hiwatt. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+class Type1 : UITableViewCell{
+    
+    @IBOutlet weak var LabelText: UILabel!
+}
